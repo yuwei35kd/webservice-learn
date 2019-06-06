@@ -3,11 +3,8 @@ package com.example.webservice.server.service;
 import com.example.webservice.server.domain.User;
 
 import javax.jws.WebService;
-import javax.xml.datatype.DatatypeFactory;
-import javax.xml.datatype.XMLGregorianCalendar;
 import java.util.ArrayList;
 import java.util.Date;
-import java.util.GregorianCalendar;
 import java.util.HashMap;
 import java.util.Map;
 
