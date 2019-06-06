@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <service xmlns="http://xfire.codehaus.org/config/1.0">
+        <name>HelloWebService</name>
+        <serviceClass>
+            com.webservice.IHelloWebService
+        </serviceClass>
+        <implementationClass>
+            com.webservice.HelloWebServiceImpl
+        </implementationClass>
+        <!--注册监听处理器(server端的handler)-->
+        <inHandlers>
+            <handler handlerClass="com.webservice.checkclient.ServerAuthenticationHandler"></handler>
+        </inHandlers>
+
+        <style>wrapped</style>
+        <use>literal</use>
+        <scope>application</scope>
+    </service>
+</beans>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Transaction>
+    <HEAD>
+        <SEQ_NO>010122500298</SEQ_NO>
+        <SERVICE_ID>msg01</SERVICE_ID>
+        <SERVER_ID>8069</SERVER_ID>
+        <CHANNEL_ID>672</CHANNEL_ID>
+        <BANK_CODE>9901</BANK_CODE>
+        <TRAN_DATE>20190522</TRAN_DATE>
+        <TRAN_TIME>145520</TRAN_TIME>
+        <USER_ID>c00257</USER_ID>
+        <AUTH_CONTEXT/>
+        <AUTH_ID/>
+        <EXT_HEAD>
+            <BUSINESS_ID>672</BUSINESS_ID>
+        </EXT_HEAD>
+    </HEAD>
+    <BODY>
+        <PRD_ID>50335</PRD_ID>
+        <GROUP_SND>
+            <CHL_ID>2</CHL_ID>
+            <GROUP_NO>1</GROUP_NO>
+            <SEND_NO>oaE2NjhapxPJ483fFysfHg7yb4D4</SEND_NO>
+            <SEND_CONTENT>微信消
+                息</SEND_CONTENT>
+            <CONTENT_1>亲爱的用户，您的江苏银行FT账户在线开户服务状态发生变化，请及时关注！#20190522 145520#自贸e开户##业务编号：WXKH201904010001#企业名称：南京中医药大学#业务状态：所属分行审核通过，待审核#备注：#请及时关注微信通知>，获取业务最新状态！</CONTENT_1>
+            <MSG_EXP_FLAG>2</MSG_EXP_FLAG>
+            <RESERVE2>9</RESERVE2>
+        </GROUP_SND>
+    </BODY>
+</Transaction>
