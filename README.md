@@ -1,6 +1,6 @@
 # webservice-learn
 
-- [webservice百度百科](https://baike.baidu.com/item/Web%20Service/1215039?fromtitle=webservice&fromid=2342584&fr=aladdin)
+[webservice百度百科](https://baike.baidu.com/item/Web%20Service/1215039?fromtitle=webservice&fromid=2342584&fr=aladdin)
 
 学习步骤：  
 1，了解如何构建一个webservice服务端（如何使用java实现一个服务端，webservice其实跟开发语言没有关系，只是提供一个标准或者规范）  
